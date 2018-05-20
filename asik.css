@@ -1,0 +1,43 @@
+body {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background: #E9967A;
+    width: 100%;
+    height: 100%;
+    color: darkred;
+}
+
+h1 {
+    color:blueviolet;
+    text-decoration: bold;
+    font-size: 70px;
+}
+
+.jumbotron img{
+    width: 200px;
+    border: 5px solid white;
+    
+}
+
+
+
+.navbar{
+   background: paleturquoise;
+   position: relative;
+   bottom: 40px;
+}
+.alert{
+    background: yellow;
+    position: relative;
+   bottom: 40px;
+}
+#atas{
+    border-top: 3px solid brown;
+    width:400px;
+}
+#tengah{
+    border-top:3px solid brown;
+}
+#bawah{
+    border-top: 3px solid brown;
+    width:400px;
+}
